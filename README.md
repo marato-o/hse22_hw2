@@ -1,7 +1,7 @@
 # hse22_hw2
 ## GCollab
-### [Ссылка на GCollab 1ой части] (https://colab.research.google.com/drive/1Oqz-tZ9EIXWqhy0JWsrGqWKwKre4nio6?usp=sharing)
-### [Ссылка на GCollab 2ой части] (https://colab.research.google.com/drive/1q1dugrOeA_W-p0yHMx4uVIW880Ojj2Qc?usp=sharing)
+* [Ссылка на GCollab 1ой части](https://colab.research.google.com/drive/1Oqz-tZ9EIXWqhy0JWsrGqWKwKre4nio6?usp=sharing)
+* [Ссылка на GCollab 2ой части](https://colab.research.google.com/drive/1q1dugrOeA_W-p0yHMx4uVIW880Ojj2Qc?usp=sharing)
 
 ## Результаты
 1. Предсказанных белков – 3619
